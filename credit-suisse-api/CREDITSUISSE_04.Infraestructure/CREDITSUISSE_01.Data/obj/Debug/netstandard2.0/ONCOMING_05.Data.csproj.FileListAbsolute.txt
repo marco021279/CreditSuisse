@@ -1,0 +1,14 @@
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.csprojAssemblyReference.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.csproj.CoreCompileInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.AssemblyInfoInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.AssemblyInfo.cs
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_05.Data.deps.json
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_05.Data.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_05.Data.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.csproj.CopyComplete
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\obj\Debug\netstandard2.0\CREDITSUISSE_05.Data.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_05.Data\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.pdb

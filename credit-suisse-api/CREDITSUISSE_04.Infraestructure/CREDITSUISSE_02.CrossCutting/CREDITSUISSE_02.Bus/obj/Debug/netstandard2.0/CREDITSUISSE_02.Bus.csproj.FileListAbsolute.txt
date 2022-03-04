@@ -1,0 +1,13 @@
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.deps.json
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.pdb
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.pdb
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csproj.AssemblyReference.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.AssemblyInfoInputs.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.AssemblyInfo.cs
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csproj.CopyComplete
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.pdb

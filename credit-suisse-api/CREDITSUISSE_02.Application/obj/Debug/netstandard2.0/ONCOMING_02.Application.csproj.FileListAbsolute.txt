@@ -1,0 +1,14 @@
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.deps.json
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csprojAssemblyReference.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csproj.CoreCompileInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.AssemblyInfoInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.AssemblyInfo.cs
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csproj.CopyComplete
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.pdb

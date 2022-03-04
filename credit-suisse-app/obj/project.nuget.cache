@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pln3Q8gsv9mSDaEtyrkbkueLOIVQTbVmrTwG+xQ6WjaceaUjTgnukg8ElbasAaMBulSEaHF8+ZmTMsUtA2wmLw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Teste\\credit-suisse-app\\credit-suisse-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\credit-suisse-app.exe
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\credit-suisse-app.deps.json
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\credit-suisse-app.runtimeconfig.json
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\credit-suisse-app.dll
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\ref\credit-suisse-app.dll
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\credit-suisse-app.pdb
+C:\Projetos\Teste\credit-suisse-app\bin\Debug\net6.0\RestSharp.dll
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.csproj.AssemblyReference.cache
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.AssemblyInfoInputs.cache
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.AssemblyInfo.cs
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.csproj.CopyComplete
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.dll
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\ref\credit-suisse-app.dll
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.pdb
+C:\Projetos\Teste\credit-suisse-app\obj\Debug\net6.0\credit-suisse-app.genruntimeconfig.cache

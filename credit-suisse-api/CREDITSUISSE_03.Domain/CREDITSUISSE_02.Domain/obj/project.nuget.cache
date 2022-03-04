@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gz+LkTacRWScclmyyHu3bMyve+1xQ593fsuVtQWCTnXX/Bs5lOi/qqrw59BrQEBUhdLYFasYytvzx1kEM2cpNw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Teste\\credit-suisse-api\\CREDITSUISSE_03.Domain\\CREDITSUISSE_02.Domain\\CREDITSUISSE_02.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\8.2.3\\fluentvalidation.8.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

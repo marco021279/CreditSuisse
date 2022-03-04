@@ -1,0 +1,9 @@
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.deps.json
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.csprojAssemblyReference.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.csproj.CoreCompileInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfoInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfo.cs
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb

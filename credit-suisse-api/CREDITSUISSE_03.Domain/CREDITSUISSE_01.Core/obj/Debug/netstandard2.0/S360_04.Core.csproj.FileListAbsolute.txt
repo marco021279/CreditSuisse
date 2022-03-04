@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.deps.json
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\Carlos\source\repos\GrupoAcotubo\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.deps.json
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\bin\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.csprojAssemblyReference.cache
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfoInputs.cache
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.AssemblyInfo.cs
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.dll
+C:\Users\Carlos\Downloads\Siga360\Siga360\Src\Api\CREDITSUISSE_04.Core\obj\Debug\netstandard2.0\CREDITSUISSE_04.Core.pdb

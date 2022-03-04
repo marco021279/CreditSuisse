@@ -1,0 +1,15 @@
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.deps.json
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Application.pdb
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_02.Domain.pdb
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.pdb
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csproj.AssemblyReference.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.AssemblyInfoInputs.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.AssemblyInfo.cs
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.csproj.CopyComplete
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.dll
+C:\Projetos\Teste\credit-suisse-api\CREDITSUISSE_02.Application\obj\Debug\netstandard2.0\CREDITSUISSE_02.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.deps.json
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_02.Bus.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\bin\Debug\netstandard2.0\CREDITSUISSE_01.Core.pdb
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csprojAssemblyReference.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csproj.CoreCompileInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.AssemblyInfoInputs.cache
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.AssemblyInfo.cs
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.csproj.CopyComplete
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.dll
+C:\Users\marco.consultor\source\repos\CREDITSUISSE\src\api\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_02.CrossCutting\CREDITSUISSE_02.Bus\obj\Debug\netstandard2.0\CREDITSUISSE_02.Bus.pdb

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CREDITSUISSE_02.Application\CREDITSUISSE_02.Application.csproj" />
+    <ProjectReference Include="..\..\..\CREDITSUISSE_03.Domain\CREDITSUISSE_02.Domain\CREDITSUISSE_02.Domain.csproj" />
+    <ProjectReference Include="..\..\..\CREDITSUISSE_03.Domain\CREDITSUISSE_01.Core\CREDITSUISSE_01.Core.csproj" />
+    <ProjectReference Include="..\..\..\CREDITSUISSE_04.Infraestructure\CREDITSUISSE_01.Data\CREDITSUISSE_01.Data.csproj" />
+    <ProjectReference Include="..\CREDITSUISSE_02.Bus\CREDITSUISSE_02.Bus.csproj" />
+  </ItemGroup>
+
+</Project>
